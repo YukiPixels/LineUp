@@ -1,12 +1,13 @@
-# 📐 Layouts a Drawing Layouts Tool Script
-
-**Layouts** is a script made for [Aseprite](https://www.aseprite.org/) that draws guides directly onto your canvas as individual and non destructive layers.
+<img width="1260" height="216" alt="Banner-layouts" src="https://github.com/user-attachments/assets/b2701522-e9e7-4e60-956b-6d0c217ebf21" />
 
 [![Itch.io](https://img.shields.io/badge/Download-Itch.io-ff5c5b?style=for-the-badge&logo=itchdotio)](https://yukipixels.itch.io/layouts)
 [![License: MIT](https://img.shields.io/badge/📃License-MIT-lightgrey.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Socials](https://img.shields.io/badge/💖Socials-YukiPixels-blue.svg?style=for-the-badge)](https://linktr.ee/yukipixels)
 
 ---
+
+### **Layouts** is a Lua Script made for [Aseprite](https://www.aseprite.org/) that draws design guides directly onto new layers and adapts to the size of your canvas.
+### Whether you're a framing enthusiast like me or simply a composition lover, I hope it will help you make perfectly balanced Pixel Art illustrations! ♥
 
 ## 🛠️ Features
 
@@ -16,10 +17,6 @@
 * **Reset Defaults:** Button to restore all settings to their default values with a single click.
 * **Toggle Functions:** Button to show or hide all Layouts layers without having to delete them.
 * **Persistent Settings:** Your last configuration is automatically saved and reloaded on next launch.
-
-## 🖼️ Preview
-
-![Layouts panel](screenshots/panel.png)
 
 ## 🗂️ Function Types
 
@@ -32,6 +29,11 @@
 | #. **Grid** | Draw a regular grid with adjustable size customizable size, color, thickness and style |
 | ⅓. **Rule of Thirds** | Draw the classic 3×3 composition grid with customizable color, thickness and style |
 | φ. **Golden Ratio** | Draw the Golden Ratio Rectangle, Spiral and Circle with customizable color and thickness |
+
+## 🖼️ Preview
+
+<img width="1106" height="1074" alt="panel2" src="https://github.com/user-attachments/assets/ee23ebe3-c720-4d5f-ba46-a33ddac0faca" />
+
 
 ## 💾 Installation
 
@@ -52,7 +54,7 @@
 
 ## 📃 License
 
-Layouts is released under the **MIT License** — free for personal and commercial use, no attribution required.
+Layouts is released under the [MIT License](https://opensource.org/license/MIT). No attribution is required but appreciated (@YukiPixels) 
 
 ## 🔗 Support and Links
 
